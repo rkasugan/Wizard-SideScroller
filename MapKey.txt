@@ -1,0 +1,7 @@
+o = empty
+x = block
+h = horizontal block
+p = powerup
+w = end block
+e = horizontal enemy
+v = vertical enemy
