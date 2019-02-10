@@ -1,0 +1,41 @@
+
+EnemySpriteSheet.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy1
+  rotate: false
+  xy: 2, 168
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 2, 84
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 106, 168
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+enemy4
+  rotate: false
+  xy: 2, 0
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+enemy5
+  rotate: false
+  xy: 106, 84
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
